@@ -1179,26 +1179,28 @@ https://dl.dropboxusercontent.com/scl/fi/wgl5dx69cn31uwfuig61w/VALLENATO-CRISTIA
 # ==========================================
 # SECCIÓN: Peliculas (películas variables)
 # ==========================================
-#EXTINF:-1,Carretera Mortal (2018)
+#EXTINF:-1 group-title="🎬 PELÍCULAS",======== 🎬 PELÍCULAS DISPONIBLES 🎬 ========
+
+#EXTINF:-1 tvg-logo="" group-title="🎬 Películas",Carretera Mortal (2018)
 https://www.dropbox.com/scl/fi/c3i9xda0ntp69ooa8zzu6/Carretera.Mortal.2018.1080P-Dual-Lat.mkv?rlkey=jwcuuyl5i61bzd72xqys1s9q1&st=745di1jm&dl=1
 
-#EXTINF:-1,Entre Padres e Hijos (2026)
+#EXTINF:-1 tvg-logo="" group-title="🎬 Películas",Entre Padres e Hijos (2026)
 https://www.dropbox.com/scl/fi/88cm3o3iyfnn13vfvqqdv/Entre.Padres.E.Hijos.2026.1080P-Dual-Lat.mkv?rlkey=wyi5yp2y8xtf7x18hkm6docpm&st=rbuc8ttq&dl=1
 
-#EXTINF:-1,Video Personal 2026
+#EXTINF:-1 tvg-logo="" group-title="🎬 Películas",Video Personal 2026
 https://www.dropbox.com/scl/fi/0jogp7h5mj8gkwub7case/VID_20260401_092444_752.mp4.mkv?rlkey=gjnmw6mn6zr6ct4d4ff9u8t1u&st=grae37lg&dl=1
 
-#EXTINF:-1,Pelicula de Accion (Jet Li)
+#EXTINF:-1 tvg-logo="" group-title="🎬 Películas",Jet Li Acción
 https://www.dropbox.com/scl/fi/q7q98wmq5r4w3c2uu3npo/JET-LI-se-infiltr-en-una-peligrosa-banda-para-destruirla-desde-dentro-Pel-cula-de-Acci-n-1080P_HD.mp4?rlkey=60x080kn52u0tihr3y060zsod&st=sppy9pu9&dl=1
 
-#EXTINF:-1,John Carter (2012)
+#EXTINF:-1 tvg-logo="" group-title="🎬 Películas",John Carter (2012)
 https://www.dropbox.com/scl/fi/0sxbo5rz0h3lc9ervhmis/John-Carter-2012.mp4?rlkey=jbgxemdu8rq8xu8vclm7b3197&st=79bw60t1&dl=1
 
-#EXTINF:-1,Jackie Chan - Masacre en el Barrio Chino
+#EXTINF:-1 tvg-logo="" group-title="🎬 Películas",Jackie Chan - Masacre en el Barrio Chino
 https://www.dropbox.com/scl/fi/6b1dm8osvx2g0ottniw6k/LA-PEL-CULA-M-S-BRUTAL-DE-JACKIE-CHAN_-Masacre-en-el-Barrio-Chino_-COMPLETA-Y-DOBLADA-1080P_HD.mp4?rlkey=wuw3fcxzn6a55eeor2lnadr8b&st=w7q6y787&dl=1
 
-#EXTINF:-1,Goat (2026)
+#EXTINF:-1 tvg-logo="" group-title="🎬 Películas",Goat (2026)
 https://www.dropbox.com/scl/fi/2wtt4v31mdre0pq4eczyd/La.Cabra.Que.Cambi-.El.Juego.-.Goat.2026.1080P-Dual-Lat.mkv?rlkey=v8e4hp2586zyvv42xpg6zvn34&st=izyy00v6&dl=1
 
-#EXTINF:-1,Pelicula Motivacional Cristiana
+#EXTINF:-1 tvg-logo="" group-title="🎬 Películas",Película Cristiana Motivacional
 https://www.dropbox.com/scl/fi/1dc6kq9yd2yjnc56sx2sn/Una-pel-cula-que-tocar-cada-coraz-n-Dios-siempre-da-fuerzas-a-quienes-l-llama-1080P_HD.mp4?rlkey=wuammsbaxeowpwn0rj3m7x1kv&st=d81io3em&dl=1
