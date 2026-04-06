@@ -1232,71 +1232,70 @@ https://www.dropbox.com/scl/fi/tavjxtn8ofm3xsgdj7doc/Lionheart-1990-Jean-Claude-
 #EXTINF:-1 tvg-logo="" group-title="🎬 Películas",Triple Amenaza 2019
 https://www.dropbox.com/scl/fi/qmzcekrd8xqnp88yiidvm/Triple-Amenaza-2019-Pel-culas-En-Espa-ol-1080P_HD.mp4?rlkey=jjrap8gigq7qd8f0u84ptvr0d&dl=1
 
+########## FE ##########
 
-########## 🙏 FE / BÍBLICAS ##########
+#EXTINF:-1 tvg-name="Evangelio San Mateo" group-title="FE",El Evangelio según San Mateo (1964)
+https://archive.org/download/TheGospelAccordingToStMatthew/TheGospelAccordingToStMatthew.mp4?download=1
 
-#EXTINF:-1 group-title="🙏 Español Fe",🎬 El Evangelio según San Mateo (1964)
-https://archive.org/download/TheGospelAccordingToStMatthew/TheGospelAccordingToStMatthew.mp4
+#EXTINF:-1 tvg-name="Rey de Reyes" group-title="FE",El Rey de Reyes (1927)
+https://archive.org/download/TheKingOfKings1927/TheKingOfKings1927.mp4?download=1
 
-#EXTINF:-1 group-title="🙏 Español Fe",🎬 El Rey de Reyes (1927)
-https://archive.org/download/TheKingOfKings1927/TheKingOfKings1927.mp4
+#EXTINF:-1 tvg-name="Pesebre a la Cruz" group-title="FE",Desde el Pesebre a la Cruz (1912)
+https://archive.org/download/FromTheMangerToTheCross/FromTheMangerToTheCross.mp4?download=1
 
-#EXTINF:-1 group-title="🙏 Español Fe",🎬 Desde el Pesebre a la Cruz (1912)
-https://archive.org/download/FromTheMangerToTheCross/FromTheMangerToTheCross.mp4
+#EXTINF:-1 tvg-name="Diez Mandamientos" group-title="FE",Los Diez Mandamientos (1923)
+https://archive.org/download/TheTenCommandments1923/TheTenCommandments1923.mp4?download=1
 
-#EXTINF:-1 group-title="🙏 Español Fe",🎬 Los Diez Mandamientos (1923)
-https://archive.org/download/TheTenCommandments1923/TheTenCommandments1923.mp4
+#EXTINF:-1 tvg-name="Martin Lutero" group-title="FE",Martín Lutero (1953)
+https://archive.org/download/MartinLuther1953/MartinLuther1953.mp4?download=1
 
-#EXTINF:-1 group-title="🙏 Español Fe",🎬 Martín Lutero (1953)
-https://archive.org/download/MartinLuther1953/MartinLuther1953.mp4
+########## FAMILIAR ##########
 
-########## 👨‍👩‍👧 FAMILIAR ##########
+#EXTINF:-1 tvg-name="Que Bello es Vivir" group-title="FAMILIAR",Qué bello es vivir (1946)
+https://archive.org/download/ItsAWonderfulLife/ItsAWonderfulLife.mp4?download=1
 
-#EXTINF:-1 group-title="👨‍👩‍👧 Español",🎬 Qué bello es vivir (1946)
-https://archive.org/download/ItsAWonderfulLife/ItsAWonderfulLife.mp4
+#EXTINF:-1 tvg-name="Heidi" group-title="FAMILIAR",Heidi (1937)
+https://archive.org/download/Heidi1937/Heidi1937.mp4?download=1
 
-#EXTINF:-1 group-title="👨‍👩‍👧 Español",🎬 Heidi (1937)
-https://archive.org/download/Heidi1937/Heidi1937.mp4
+#EXTINF:-1 tvg-name="Mujercitas" group-title="FAMILIAR",Mujercitas (1933)
+https://archive.org/download/LittleWomen1933/LittleWomen1933.mp4?download=1
 
-#EXTINF:-1 group-title="👨‍👩‍👧 Español",🎬 Mujercitas (1933)
-https://archive.org/download/LittleWomen1933/LittleWomen1933.mp4
+#EXTINF:-1 tvg-name="Pequeno Lord" group-title="FAMILIAR",El pequeño Lord (1936)
+https://archive.org/download/LittleLordFauntleroy1936/LittleLordFauntleroy1936.mp4?download=1
 
-#EXTINF:-1 group-title="👨‍👩‍👧 Español",🎬 El pequeño Lord (1936)
-https://archive.org/download/LittleLordFauntleroy1936/LittleLordFauntleroy1936.mp4
+#EXTINF:-1 tvg-name="Pequena Princesa" group-title="FAMILIAR",La pequeña princesa (1939)
+https://archive.org/download/TheLittlePrincess1939/TheLittlePrincess1939.mp4?download=1
 
-#EXTINF:-1 group-title="👨‍👩‍👧 Español",🎬 La pequeña princesa (1939)
-https://archive.org/download/TheLittlePrincess1939/TheLittlePrincess1939.mp4
+########## REFLEXION ##########
 
-########## 📖 REFLEXIÓN ##########
+#EXTINF:-1 tvg-name="Nuestro Pan Diario" group-title="REFLEXION",Nuestro pan de cada día (1934)
+https://archive.org/download/OurDailyBread1934/OurDailyBread1934.mp4?download=1
 
-#EXTINF:-1 group-title="📖 Español",🎬 Nuestro pan de cada día (1934)
-https://archive.org/download/OurDailyBread1934/OurDailyBread1934.mp4
+#EXTINF:-1 tvg-name="Juan Nadie" group-title="REFLEXION",Juan Nadie (1941)
+https://archive.org/download/MeetJohnDoe1941/MeetJohnDoe1941.mp4?download=1
 
-#EXTINF:-1 group-title="📖 Español",🎬 Juan Nadie (1941)
-https://archive.org/download/MeetJohnDoe1941/MeetJohnDoe1941.mp4
+#EXTINF:-1 tvg-name="Vida Futura" group-title="REFLEXION",La vida futura (1936)
+https://archive.org/download/ThingsToCome1936/ThingsToCome1936.mp4?download=1
 
-#EXTINF:-1 group-title="📖 Español",🎬 La vida futura (1936)
-https://archive.org/download/ThingsToCome1936/ThingsToCome1936.mp4
+#EXTINF:-1 tvg-name="Viejo y el Mar" group-title="REFLEXION",El viejo y el mar (1958)
+https://archive.org/download/TheOldManAndTheSea1958/TheOldManAndTheSea1958.mp4?download=1
 
-#EXTINF:-1 group-title="📖 Español",🎬 El viejo y el mar (1958)
-https://archive.org/download/TheOldManAndTheSea1958/TheOldManAndTheSea1958.mp4
+#EXTINF:-1 tvg-name="Extrana Pasajera" group-title="REFLEXION",La extraña pasajera (1942)
+https://archive.org/download/NowVoyager1942/NowVoyager1942.mp4?download=1
 
-#EXTINF:-1 group-title="📖 Español",🎬 La extraña pasajera (1942)
-https://archive.org/download/NowVoyager1942/NowVoyager1942.mp4
+########## CLASICOS ##########
 
-########## 🎭 CLÁSICOS ##########
+#EXTINF:-1 tvg-name="Luces de la Ciudad" group-title="CLASICOS",Luces de la ciudad (1931)
+https://archive.org/download/CityLights1931/CityLights1931.mp4?download=1
 
-#EXTINF:-1 group-title="🎭 Español",🎬 Luces de la ciudad (1931)
-https://archive.org/download/CityLights1931/CityLights1931.mp4
+#EXTINF:-1 tvg-name="Tiempos Modernos" group-title="CLASICOS",Tiempos modernos (1936)
+https://archive.org/download/ModernTimes1936/ModernTimes1936.mp4?download=1
 
-#EXTINF:-1 group-title="🎭 Español",🎬 Tiempos modernos (1936)
-https://archive.org/download/ModernTimes1936/ModernTimes1936.mp4
+#EXTINF:-1 tvg-name="Quimera del Oro" group-title="CLASICOS",La quimera del oro (1925)
+https://archive.org/download/TheGoldRush1925/TheGoldRush1925.mp4?download=1
 
-#EXTINF:-1 group-title="🎭 Español",🎬 La quimera del oro (1925)
-https://archive.org/download/TheGoldRush1925/TheGoldRush1925.mp4
+#EXTINF:-1 tvg-name="Gran Dictador" group-title="CLASICOS",El gran dictador (1940)
+https://archive.org/download/TheGreatDictator1940/TheGreatDictator1940.mp4?download=1
 
-#EXTINF:-1 group-title="🎭 Español",🎬 El gran dictador (1940)
-https://archive.org/download/TheGreatDictator1940/TheGreatDictator1940.mp4
-
-#EXTINF:-1 group-title="🎭 Español",🎬 Rebeca (1940)
-https://archive.org/download/Rebecca1940/Rebecca1940.mp4
+#EXTINF:-1 tvg-name="Rebeca" group-title="CLASICOS",Rebeca (1940)
+https://archive.org/download/Rebecca1940/Rebecca1940.mp4?download=1
