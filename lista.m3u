@@ -834,21 +834,6 @@ https://dl.dropboxusercontent.com/scl/fi/flyuyk34ovnyrv1h92g85/M-sica-Cristiana-
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3293/3293810.png" group-title="MÚSICA CRISTIANA",Música Cristiana S01 E17 - Alabanzas Inspiradas 2026
 https://dl.dropboxusercontent.com/scl/fi/ef03n5brj6wyww87lw14h/ALABANZAS-INSPIRADAS-LANZAMIENTO-2026-M-SICAS-CRISTIANAS-PARA-SENTIR-LA-PRESENCIA-DE-DIOS-1062-X-1920.mp4?rlkey=em94rn8fhnzckgyas7w2l5b10&dl=1
 
-#EXTINF:-1 tvg-logo="https://www.enlace.org/wp-content/uploads/2021/03/enlace-logo.png" group-title="MÚSICA CRISTIANA", Enlace TV (Internacional)
-https://enlace-live.bitmovin.com/v1/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://enlace.plus/assets/images/logos/ejtv.png" group-title="MÚSICA CRISTIANA", EJTV (Música y Jóvenes)
-https://ejtv-live.bitmovin.com/v1/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/EWTN-Logo.png" group-title="ADORACIÓN", EWTN Español
-https://ewtn-esp-v1.akamaized.net/hls/live/2026938/ewtn-esp-v1/master.m3u8
-
-#EXTINF:-1 group-title="INFANTIL", Enlace Kids (Planeta Creación)
-https://enlace-kids.bitmovin.com/v1/master.m3u
-
-#EXTINF:-1 group-title="ADORACIÓN", Bethel TV en Vivo
-https://live.betheltv.tv/hls/bethel_hd/index.m3u
-
 # ==========================================
 # SECCIÓN: SERIES (Aprendizaje y Escuela)
 # ==========================================
@@ -1247,20 +1232,3 @@ https://www.dropbox.com/scl/fi/tavjxtn8ofm3xsgdj7doc/Lionheart-1990-Jean-Claude-
 #EXTINF:-1 tvg-logo="" group-title="🎬 Películas",Triple Amenaza 2019
 https://www.dropbox.com/scl/fi/qmzcekrd8xqnp88yiidvm/Triple-Amenaza-2019-Pel-culas-En-Espa-ol-1080P_HD.mp4?rlkey=jjrap8gigq7qd8f0u84ptvr0d&dl=1
 
-
-########## 🎬 PELICULAS FUNCIONALES ##########
-
-#EXTINF:-1 tvg-name="Megan Fox Accion" group-title="PELIS",Megan Fox Accion Africa
-https://www.dropbox.com/scl/fi/loul04gtoow4a910w4kt3/La-pel-cula-de-acci-n-m-s-emocionante-con-Megan-Fox-en-la-sabana-africana-Pelicula-completa-1080P_HD.mp4?rlkey=2ye7jo0u0tbroarcqx2ulure4&dl=1
-
-#EXTINF:-1 tvg-name="Jackie Chan Accion" group-title="PELIS",Jackie Chan Masacre Barrio Chino
-https://www.dropbox.com/scl/fi/6b1dm8osvx2g0ottniw6k/LA-PEL-CULA-M-S-BRUTAL-DE-JACKIE-CHAN_-Masacre-en-el-Barrio-Chino_-COMPLETA-Y-DOBLADA-1080P_HD.mp4?rlkey=wuw3fcxzn6a55eeor2lnadr8b&dl=1
-
-#EXTINF:-1 tvg-name="Chuck Norris Accion" group-title="PELIS",Chuck Norris Accion
-https://www.dropbox.com/scl/fi/q15odgodc26skohva62n9/Legendary-Movie-by-Chuck-Norris-_-Hollywood-Action-Movie-_-Full-Movie-Action-Movies-1080p-1080P_HD.mp4?rlkey=9mzaq8webeb65xguy337bxwlg&dl=1
-
-#EXTINF:-1 tvg-name="Lionheart Van Damme" group-title="PELIS",Lionheart 1990
-https://www.dropbox.com/scl/fi/tavjxtn8ofm3xsgdj7doc/Lionheart-1990-Jean-Claude-Van-Damme-_-No-mercy.-No-limits.-Only-fists-and-fury.-4K-1080P_HD.mp4?rlkey=hvf6tjusvsjmbotq36erd10ml&dl=1
-
-#EXTINF:-1 tvg-name="Triple Amenaza" group-title="PELIS",Triple Amenaza 2019
-https://www.dropbox.com/scl/fi/qmzcekrd8xqnp88yiidvm/Triple-Amenaza-2019-Pel-culas-En-Espa-ol-1080P_HD.mp4?rlkey=jjrap8gigq7qd8f0u84ptvr0d&dl=1
