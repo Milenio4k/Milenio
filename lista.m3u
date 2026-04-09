@@ -1,5 +1,25 @@
 #EXTM3U
 
+########## 👶 INFANTIL - OSCAR ##########
+
+#EXTINF:-1 tvg-id="oscar1" tvg-name="Oscar Kim" tvg-logo="https://i.imgur.com/7bK0YJQ.png" group-title="👶 INFANTIL | OSCAR",Oscar Kim
+https://www.dropbox.com/scl/fi/0fu3znodps21hpmmwnnxq/Oscar-llerde-_-lk-B-l-m-Oscar-Kim_-_-Minika-1080P_HD.mp4?dl=1
+
+#EXTINF:-1 tvg-id="oscar2" tvg-name="Anla Ma Tamam" tvg-logo="https://i.imgur.com/7bK0YJQ.png" group-title="👶 INFANTIL | OSCAR",Anla Ma Tamam
+https://www.dropbox.com/scl/fi/lvfi6mfdurbqe9a94z563/Oscar-llerde-_-Anla-ma-Tamam_-_-Minika-1080P_HD.mp4?dl=1
+
+#EXTINF:-1 tvg-id="oscar3" tvg-name="Oscar Kayboluyor" tvg-logo="https://i.imgur.com/7bK0YJQ.png" group-title="👶 INFANTIL | OSCAR",Oscar Kayboluyor
+https://www.dropbox.com/scl/fi/xzvkrc87wvxtb3ymiesyf/Oscar-llerde-_-Oscar-Ka-yor_-_-Minika-1080P_HD.mp4?dl=1
+
+#EXTINF:-1 tvg-id="oscar4" tvg-name="Oscar Se Esconde" tvg-logo="https://i.imgur.com/7bK0YJQ.png" group-title="👶 INFANTIL | OSCAR",Oscar Se Esconde
+https://www.dropbox.com/scl/fi/jhxnslwj5ew395cnj7er0/Oscar-llerde-_-Oscar-Saklan-yor_-_-Minika-1080P_HD.mp4?dl=1
+
+#EXTINF:-1 tvg-id="oscar5" tvg-name="¿Qué hará Oscar?" tvg-logo="https://i.imgur.com/7bK0YJQ.png" group-title="👶 INFANTIL | OSCAR",¿Qué hará Oscar?
+https://www.dropbox.com/scl/fi/8v41abhlgzg52k3nlw0dt/Oscar-ne-yapacak_-1080P_HD.mp4?dl=1
+
+#EXTINF:-1 tvg-id="oscar6" tvg-name="Nuevo Amigo de Oscar" tvg-logo="https://i.imgur.com/7bK0YJQ.png" group-title="👶 INFANTIL | OSCAR",Nuevo Amigo de Oscar
+https://www.dropbox.com/scl/fi/3qpf191itzxgtaal8sbao/Oscar_-n-yeni-arkada-_-1080P_HD.mp4?dl=1
+
 # ==========================================
 # SECCIÓN: LARVA (Colección Completa 27 Caps)
 # ==========================================
@@ -978,6 +998,8 @@ https://dl.dropboxusercontent.com/scl/fi/8p2j5r12aaxn8sqm895vv/Canciones-Infanti
 # SECCIÓN: ALABANZAS (Música Cristiana)
 # ==========================================
 
+#EXTINF:-1 tvg-logo="" group-title="🙏 Alabanza",Él es Santo
+https://www.dropbox.com/scl/fi/ws5qjqnesvwfpeix621eo/L-ES-SANTO-1080P_HD.mp4?rlkey=g0pkft75tgtqujo0ik1ogslj0&dl=1
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3293/3293810.png" group-title="ALABANZAS",Alabanza S01 E01 - Jesucristo Basta (Un Corazón)
 https://dl.dropboxusercontent.com/scl/fi/kednam6mld08zif0nx210/Un-Coraz-n-feat.-Living-Jesucristo-Basta-Versi-n-ac-stica-720P_HD.mp4?rlkey=rifsnip7r7s58mb8b0hkn0fbb&dl=1
 
@@ -1232,3 +1254,8 @@ https://www.dropbox.com/scl/fi/tavjxtn8ofm3xsgdj7doc/Lionheart-1990-Jean-Claude-
 #EXTINF:-1 tvg-logo="" group-title="🎬 Películas",Triple Amenaza 2019
 https://www.dropbox.com/scl/fi/qmzcekrd8xqnp88yiidvm/Triple-Amenaza-2019-Pel-culas-En-Espa-ol-1080P_HD.mp4?rlkey=jjrap8gigq7qd8f0u84ptvr0d&dl=1
 
+#EXTINF:-1 tvg-logo="" group-title="🎬 Películas",El Aguijón del Desierto
+https://www.dropbox.com/scl/fi/yhiiheqa7iz6qbfk09r52/ESTA-PEL-CULA-ES-SIMPLEMENTE-MARAVILLOSA_-QUE-PIENSAS-DE-EL_-EL-AGUIJ-N-DEL-DESIERTO-1080P_60FPS.mp4?rlkey=gtw3zyad3m3o3lixjixoqjbc9&dl=1
+
+#EXTINF:-1 tvg-logo="" group-title="🎬 Películas",Tarzán Animada
+https://www.dropbox.com/scl/fi/8jq4uw5t9s76jihjiawhu/Mejor-Pel-cula-Animada-de-Aventura-_-Tarzan-_-Peliculas-Completas-en-Espa-ol-Latino-1080P_HD.mp4?rlkey=t0t3a0whl4npi7dyr6wq7lv8n&dl=1
