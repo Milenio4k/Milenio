@@ -1,25 +1,5 @@
 #EXTM3U
 
-########## 👶 INFANTIL - OSCAR ##########
-
-#EXTINF:-1 tvg-id="oscar1" tvg-name="Oscar Kim" tvg-logo="https://i.imgur.com/7bK0YJQ.png" group-title="👶 INFANTIL | OSCAR",Oscar Kim
-https://www.dropbox.com/scl/fi/0fu3znodps21hpmmwnnxq/Oscar-llerde-_-lk-B-l-m-Oscar-Kim_-_-Minika-1080P_HD.mp4?dl=1
-
-#EXTINF:-1 tvg-id="oscar2" tvg-name="Anla Ma Tamam" tvg-logo="https://i.imgur.com/7bK0YJQ.png" group-title="👶 INFANTIL | OSCAR",Anla Ma Tamam
-https://www.dropbox.com/scl/fi/lvfi6mfdurbqe9a94z563/Oscar-llerde-_-Anla-ma-Tamam_-_-Minika-1080P_HD.mp4?dl=1
-
-#EXTINF:-1 tvg-id="oscar3" tvg-name="Oscar Kayboluyor" tvg-logo="https://i.imgur.com/7bK0YJQ.png" group-title="👶 INFANTIL | OSCAR",Oscar Kayboluyor
-https://www.dropbox.com/scl/fi/xzvkrc87wvxtb3ymiesyf/Oscar-llerde-_-Oscar-Ka-yor_-_-Minika-1080P_HD.mp4?dl=1
-
-#EXTINF:-1 tvg-id="oscar4" tvg-name="Oscar Se Esconde" tvg-logo="https://i.imgur.com/7bK0YJQ.png" group-title="👶 INFANTIL | OSCAR",Oscar Se Esconde
-https://www.dropbox.com/scl/fi/jhxnslwj5ew395cnj7er0/Oscar-llerde-_-Oscar-Saklan-yor_-_-Minika-1080P_HD.mp4?dl=1
-
-#EXTINF:-1 tvg-id="oscar5" tvg-name="¿Qué hará Oscar?" tvg-logo="https://i.imgur.com/7bK0YJQ.png" group-title="👶 INFANTIL | OSCAR",¿Qué hará Oscar?
-https://www.dropbox.com/scl/fi/8v41abhlgzg52k3nlw0dt/Oscar-ne-yapacak_-1080P_HD.mp4?dl=1
-
-#EXTINF:-1 tvg-id="oscar6" tvg-name="Nuevo Amigo de Oscar" tvg-logo="https://i.imgur.com/7bK0YJQ.png" group-title="👶 INFANTIL | OSCAR",Nuevo Amigo de Oscar
-https://www.dropbox.com/scl/fi/3qpf191itzxgtaal8sbao/Oscar_-n-yeni-arkada-_-1080P_HD.mp4?dl=1
-
 # ==========================================
 # SECCIÓN: LARVA (Colección Completa 27 Caps)
 # ==========================================
@@ -100,6 +80,26 @@ https://www.dropbox.com/scl/fi/gad6ivhgn89il9u5z4mqe/LARVA-_-supereroi-_-Cartoni
 
 #EXTINF:-1 group-title="INFANTIL",🐛 LARVA Episodio 450
 https://www.dropbox.com/scl/fi/0mrdza2g1uu7hjmu0gdj5/LARVA-BAGIAN-2-EPISOD-450-Kartun-Larva-Terbaru-2026-Kartun-3D-SMToonEntertainment-720P_HD.mp4?rlkey=56e1l07l2trp0atxd6qs7ug06&dl=1
+
+########## 👶 INFANTIL - OSCAR ##########
+
+#EXTINF:-1 tvg-id="oscar1" tvg-name="Oscar Kim" tvg-logo="https://i.imgur.com/7bK0YJQ.png" group-title="👶 INFANTIL | OSCAR",Oscar Kim
+https://www.dropbox.com/scl/fi/0fu3znodps21hpmmwnnxq/Oscar-llerde-_-lk-B-l-m-Oscar-Kim_-_-Minika-1080P_HD.mp4?dl=1
+
+#EXTINF:-1 tvg-id="oscar2" tvg-name="Anla Ma Tamam" tvg-logo="https://i.imgur.com/7bK0YJQ.png" group-title="👶 INFANTIL | OSCAR",Anla Ma Tamam
+https://www.dropbox.com/scl/fi/lvfi6mfdurbqe9a94z563/Oscar-llerde-_-Anla-ma-Tamam_-_-Minika-1080P_HD.mp4?dl=1
+
+#EXTINF:-1 tvg-id="oscar3" tvg-name="Oscar Kayboluyor" tvg-logo="https://i.imgur.com/7bK0YJQ.png" group-title="👶 INFANTIL | OSCAR",Oscar Kayboluyor
+https://www.dropbox.com/scl/fi/xzvkrc87wvxtb3ymiesyf/Oscar-llerde-_-Oscar-Ka-yor_-_-Minika-1080P_HD.mp4?dl=1
+
+#EXTINF:-1 tvg-id="oscar4" tvg-name="Oscar Se Esconde" tvg-logo="https://i.imgur.com/7bK0YJQ.png" group-title="👶 INFANTIL | OSCAR",Oscar Se Esconde
+https://www.dropbox.com/scl/fi/jhxnslwj5ew395cnj7er0/Oscar-llerde-_-Oscar-Saklan-yor_-_-Minika-1080P_HD.mp4?dl=1
+
+#EXTINF:-1 tvg-id="oscar5" tvg-name="¿Qué hará Oscar?" tvg-logo="https://i.imgur.com/7bK0YJQ.png" group-title="👶 INFANTIL | OSCAR",¿Qué hará Oscar?
+https://www.dropbox.com/scl/fi/8v41abhlgzg52k3nlw0dt/Oscar-ne-yapacak_-1080P_HD.mp4?dl=1
+
+#EXTINF:-1 tvg-id="oscar6" tvg-name="Nuevo Amigo de Oscar" tvg-logo="https://i.imgur.com/7bK0YJQ.png" group-title="👶 INFANTIL | OSCAR",Nuevo Amigo de Oscar
+https://www.dropbox.com/scl/fi/3qpf191itzxgtaal8sbao/Oscar_-n-yeni-arkada-_-1080P_HD.mp4?dl=1
 
 # ==========================================
 # SECCIÓN: SERIES (Mr. Bean - Temporada 1)
