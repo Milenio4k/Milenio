@@ -1343,11 +1343,20 @@ http://monstertv.live:8080/movie/Bernice2/Hoffa/964745.mkv
 #EXTINF:-1 tvg-name="The Last of the Sea Women (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jhTnfQh9lWmRf0eAX1GNXYuIs5.jpg" group-title="Documentary",The Last of the Sea Women (2024)
 http://monstertv.live:8080/movie/Bernice2/Hoffa/964278.mkv
 
-#EXTINF:-1 tvg-id="Espn.co" tvg-logo="https://milenio4k.lat/logos/espn.png" group-title="DEPORTES PREMIUM",ESPN Premium
-http://aioplus.es:80/live/Grower24/Grower24/10497.ts
+#EXTINF:-1 tvg-logo="https://milenio4k.lat/logos/enlace.png" group-title="CRISTIANOS",Enlace TBN
+http://aioplus.es:80/live/Grower24/Grower24/10543.ts
 
-#EXTINF:-1 tvg-id="WinSports.co" tvg-logo="https://milenio4k.lat/logos/win.png" group-title="DEPORTES PREMIUM",Win Sports+
-http://aioplus.es:80/live/Grower24/Grower24/10502.m3u8
+#EXTINF:-1 tvg-logo="https://milenio4k.lat/logos/ejtv.png" group-title="CRISTIANOS",EJTV
+http://aioplus.es:80/live/Grower24/Grower24/10544.ts
 
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://milenio4k.lat/logos/fox.png" group-title="DEPORTES PREMIUM",Fox Sports Premium
-http://aioplus.es:80/live/Grower24/866412/10500.ts
+#EXTINF:-1 tvg-logo="https://milenio4k.lat/logos/bethel.png" group-title="CRISTIANOS",Bethel TV
+http://aioplus.es:80/live/Grower24/Grower24/10545.ts
+
+#EXTINF:-1 tvg-logo="https://milenio4k.lat/logos/solidaria.png" group-title="CRISTIANOS",Solidaria TV
+http://aioplus.es:80/live/Grower24/Grower24/10546.ts
+
+#EXTINF:-1 tvg-logo="https://milenio4k.lat/logos/3abn.png" group-title="CRISTIANOS",3ABN Latino
+http://aioplus.es:80/live/Grower24/Grower24/10547.ts
+
+#EXTINF:-1 tvg-logo="https://milenio4k.lat/logos/esperanza.png" group-title="CRISTIANOS",Esperanza TV
+http://aioplus.es:80/live/Grower24/866412/10548.ts
