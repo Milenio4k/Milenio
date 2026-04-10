@@ -1356,3 +1356,12 @@ http://monstertv.live:8080/Bernice2/Hoffa/1451.ts
 #EXTINF:-1 tvg-id="WinSportsPremium.co" tvg-name="WIN SPORTS PREMIUM" group-title="DEPORTES PREMIUM",WIN SPORTS PREMIUM
 http://monstertv.live:8080/Bernice2/Hoffa/1452.ts
 
+#EXTINF:-1 tvg-id="Espn.co" tvg-logo="https://milenio4k.lat/logos/espn.png" group-title="DEPORTES PREMIUM",ESPN Premium
+http://aioplus.es:80/live/Grower24/TU_PASSWORD/ID_CANAL.ts
+
+#EXTINF:-1 tvg-id="WinSports.co" tvg-logo="https://milenio4k.lat/logos/win.png" group-title="DEPORTES PREMIUM",Win Sports+
+http://aioplus.es:80/live/Grower24/TU_PASSWORD/ID_CANAL.ts
+
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://milenio4k.lat/logos/fox.png" group-title="DEPORTES PREMIUM",Fox Sports Premium
+http://aioplus.es:80/live/Grower24/TU_PASSWORD/ID_CANAL.ts
+
