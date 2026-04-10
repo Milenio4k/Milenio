@@ -1283,9 +1283,6 @@ http://monstertv.live:8080/movie/Bernice2/Hoffa/690621.mkv
 #EXTINF:-1 tvg-name="Super/Man: The Christopher Reeve Story (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/73WchlI0Hj4HQd0T2KOztKquOek.jpg" group-title="Documentary",Super/Man: The Christopher Reeve Story (2024)
 http://monstertv.live:8080/movie/Bernice2/Hoffa/969694.mkv
 
-#EXTINF:-1 tvg-name="Road House (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lwPsIgh98Wnpvkr3svkZwlhDrfm.jpg" group-title="Action",Road House (2024)
-http://monstertv.live:8080/movie/Bernice2/Hoffa/868398.mp4
-
 #EXTINF:-1 tvg-name="Kraven the Hunter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i47IUSsN126K11JUzqQIOi1Mg1M.jpg" group-title="Action",Kraven the Hunter (2024)
 http://monstertv.live:8080/movie/Bernice2/Hoffa/987526.mkv
 
@@ -1312,12 +1309,6 @@ http://monstertv.live:8080/movie/Bernice2/Hoffa/692521.mp4
 
 #EXTINF:-1 tvg-name="Super/Man: The Christopher Reeve Story (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/73WchlI0Hj4HQd0T2KOztKquOek.jpg" group-title="Documentary",Super/Man: The Christopher Reeve Story (2024)
 http://monstertv.live:8080/movie/Bernice2/Hoffa/969694.mkv
-
-#EXTINF:-1 tvg-name="Jaws @ 50: The Definitive Inside Story (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKFD6tG07NBkYsb02Gu0ntEJTRy.jpg" group-title="Documentary",Jaws @ 50: The Definitive Inside Story (2025)
-http://monstertv.live:8080/movie/Bernice2/Hoffa/1052517.mkv
-
-#EXTINF:-1 tvg-name="Jaws @ 50: The Definitive Inside Story (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKFD6tG07NBkYsb02Gu0ntEJTRy.jpg" group-title="Documentary",Jaws @ 50: The Definitive Inside Story (2025)
-http://monstertv.live:8080/movie/Bernice2/Hoffa/1052528.mp4
 
 #EXTINF:-1 tvg-name="Diddy: The Making of a Bad Boy (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mB829gweL8FOfIRQ2uSdcFat1vI.jpg" group-title="Documentary",Diddy: The Making of a Bad Boy (2025)
 http://monstertv.live:8080/movie/Bernice2/Hoffa/987529.mkv
@@ -1408,44 +1399,6 @@ http://monstertv.live:8080/movie/Bernice2/Hoffa/690850.mp4
 #EXTINF:-1 tvg-name="The Little Mermaid (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7S6j79TM66Xv6vW9C3v0lUlv6P.jpg" group-title="Animation",The Little Mermaid (1989)
 http://monstertv.live:8080/movie/Bernice2/Hoffa/693450.mp4
 
-#EXTINF:-1 tvg-name="Coco (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg" group-title="Family",Coco (2017)
-http://monstertv.live:8080/movie/Bernice2/Hoffa/691981.mp4
-#EXTINF:-1 tvg-name="Shrek (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h2O_O9jVp0_I9h7hP7n7I_9vD1B.jpg" group-title="Animation",Shrek (2001)
-http://monstertv.live:8080/movie/Bernice2/Hoffa/694280.mp4
-#EXTINF:-1 tvg-name="Toy Story (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vS7_fS_pS773fKxZ18uSNo8FToU.jpg" group-title="Animation",Toy Story (1995)
-http://monstertv.live:8080/movie/Bernice2/Hoffa/694630.mp4
-#EXTINF:-1 tvg-name="El Rey Leon (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3w_A93xP0_N9fX4P9_m9m_7_D.jpg" group-title="Animation",The Lion King (1994)
-http://monstertv.live:8080/movie/Bernice2/Hoffa/693390.mp4
-#EXTINF:-1 tvg-name="Busca de la Felicidad (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7S6j79TM66Xv6vW9C3v0lUlv6P.jpg" group-title="Drama",Pursuit of Happyness (2006)
-http://monstertv.live:8080/movie/Bernice2/Hoffa/694000.mkv
-#EXTINF:-1 tvg-name="El Joker (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpnVM9B6NMmQpWeZvzLv1oYhiS8.jpg" group-title="Drama",Joker (2019)
-http://monstertv.live:8080/movie/Bernice2/Hoffa/693100.mkv
-#EXTINF:-1 tvg-name="John Wick 4 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7S6j79TM66Xv6vW9C3v0lUlv6P.jpg" group-title="Action",John Wick 4 (2023)
-http://monstertv.live:8080/movie/Bernice2/Hoffa/710000.mkv
-#EXTINF:-1 tvg-name="Gladiador (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cdcl36ZfBEXI9pS9mMN97v9y9s.jpg" group-title="Action",Gladiator (2000)
-http://monstertv.live:8080/movie/Bernice2/Hoffa/692990.mkv
-#EXTINF:-1 tvg-name="Interestelar (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0S63H208YI0_M6F5WbHjS778L.jpg" group-title="Sci-Fi",Interstellar (2014)
-http://monstertv.live:8080/movie/Bernice2/Hoffa/693080.mkv
-#EXTINF:-1 tvg-name="Inception: El Origen (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9D_D9D_v99kX59f6V8Xv9P9X.jpg" group-title="Sci-Fi",Inception (2010)
-http://monstertv.live:8080/movie/Bernice2/Hoffa/693040.mkv
-#EXTINF:-1 tvg-name="Jurassic Park (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9u6HEtZJdZDjPGGJq6YEuhPnoan.jpg" group-title="Sci-Fi",Jurassic Park (1993)
-http://monstertv.live:8080/movie/Bernice2/Hoffa/693310.mkv
-#EXTINF:-1 tvg-name="Terminator 2 (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0S63H208YI0_M6F5WbHjS778L.jpg" group-title="Sci-Fi",Terminator 2 (1991)
-http://monstertv.live:8080/movie/Bernice2/Hoffa/694510.mkv
-#EXTINF:-1 tvg-name="Matrix (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vS7_fS_pS773fKxZ18uSNo8FToU.jpg" group-title="Sci-Fi",The Matrix (1999)
-http://monstertv.live:8080/movie/Bernice2/Hoffa/693720.mkv
-#EXTINF:-1 tvg-name="Back to the Future: Volver al Futuro (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7S6j79TM66Xv6vW9C3v0lUlv6P.jpg" group-title="Sci-Fi",Back to the Future (1985)
-http://monstertv.live:8080/movie/Bernice2/Hoffa/690810.mkv
-#EXTINF:-1 tvg-name="Buscando a Nemo (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o999m7K_fI1p_VpD0f3_1I4f6_S.jpg" group-title="Animation",Finding Nemo (2003)
-http://monstertv.live:8080/movie/Bernice2/Hoffa/692900.mp4
-#EXTINF:-1 tvg-name="Los Increibles (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0S63H208YI0_M6F5WbHjS778L.jpg" group-title="Animation",The Incredibles (2004)
-http://monstertv.live:8080/movie/Bernice2/Hoffa/693060.mp4
-#EXTINF:-1 tvg-name="Monsters Inc. (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o999m7K_fI1p_VpD0f3_1I4f6_S.jpg" group-title="Animation",Monsters Inc (2001)
-http://monstertv.live:8080/movie/Bernice2/Hoffa/693860.mp4
-#EXTINF:-1 tvg-name="Ratatouille (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9u6HEtZJdZDjPGGJq6YEuhPnoan.jpg" group-title="Animation",Ratatouille (2007)
-http://monstertv.live:8080/movie/Bernice2/Hoffa/694140.mp4
-#EXTINF:-1 tvg-name="Up: Una Aventura de Altura (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vS7_fS_pS773fKxZ18uSNo8FToU.jpg" group-title="Animation",Up (2009)
-http://monstertv.live:8080/movie/Bernice2/Hoffa/694850.mp4
 #EXTINF:-1 tvg-name="Wall-E (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3w_A93xP0_N9fX4P9_m9m_7_D.jpg" group-title="Animation",Wall-E (2008)
 http://monstertv.live:8080/movie/Bernice2/Hoffa/694880.mp4
 
