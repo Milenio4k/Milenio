@@ -1343,11 +1343,13 @@ http://monstertv.live:8080/movie/Bernice2/Hoffa/964745.mkv
 #EXTINF:-1 tvg-name="The Last of the Sea Women (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jhTnfQh9lWmRf0eAX1GNXYuIs5.jpg" group-title="Documentary",The Last of the Sea Women (2024)
 http://monstertv.live:8080/movie/Bernice2/Hoffa/964278.mkv
 
+#EXTM3U
+
 #EXTINF:-1 tvg-id="Espn.co" tvg-logo="https://milenio4k.lat/logos/espn.png" group-title="DEPORTES PREMIUM",ESPN Premium
-http://aioplus.es:80/live/Grower24/Grower24/408.ts
+http://aioplus.es:80/live/Grower24/866412/10497.ts
 
 #EXTINF:-1 tvg-id="WinSports.co" tvg-logo="https://milenio4k.lat/logos/win.png" group-title="DEPORTES PREMIUM",Win Sports+
-http://aioplus.es:80/live/Grower24/Grower24/409.ts
+http://aioplus.es:80/live/Grower24/866412/10502.ts
 
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://milenio4k.lat/logos/fox.png" group-title="DEPORTES PREMIUM",Fox Sports Premium
-http://aioplus.es:80/live/Grower24/Grower24/410.ts
+http://aioplus.es:80/live/Grower24/866412/10500.ts
