@@ -1343,25 +1343,11 @@ http://monstertv.live:8080/movie/Bernice2/Hoffa/964745.mkv
 #EXTINF:-1 tvg-name="The Last of the Sea Women (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jhTnfQh9lWmRf0eAX1GNXYuIs5.jpg" group-title="Documentary",The Last of the Sea Women (2024)
 http://monstertv.live:8080/movie/Bernice2/Hoffa/964278.mkv
 
-# --- CANALES COLOMBIA PREMIUM (REVISADOS) ---
-#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="CARACOL TV HD" group-title="COLOMBIA",CARACOL TV HD
-http://monstertv.live:8080/Bernice2/Hoffa/1245.ts
-
-#EXTINF:-1 tvg-id="RCN.co" tvg-name="RCN TV HD" group-title="COLOMBIA",RCN TV HD
-http://monstertv.live:8080/Bernice2/Hoffa/1246.ts
-
-#EXTINF:-1 tvg-id="WinSports.co" tvg-name="WIN SPORTS HD" group-title="COLOMBIA",WIN SPORTS HD
-http://monstertv.live:8080/Bernice2/Hoffa/1451.ts
-
-#EXTINF:-1 tvg-id="WinSportsPremium.co" tvg-name="WIN SPORTS PREMIUM" group-title="DEPORTES PREMIUM",WIN SPORTS PREMIUM
-http://monstertv.live:8080/Bernice2/Hoffa/1452.ts
-
 #EXTINF:-1 tvg-id="Espn.co" tvg-logo="https://milenio4k.lat/logos/espn.png" group-title="DEPORTES PREMIUM",ESPN Premium
-http://aioplus.es:80/live/Grower24/TU_PASSWORD/ID_CANAL.ts
+http://aioplus.es:80/live/Grower24/Grower24/408.ts
 
 #EXTINF:-1 tvg-id="WinSports.co" tvg-logo="https://milenio4k.lat/logos/win.png" group-title="DEPORTES PREMIUM",Win Sports+
-http://aioplus.es:80/live/Grower24/TU_PASSWORD/ID_CANAL.ts
+http://aioplus.es:80/live/Grower24/Grower24/409.ts
 
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://milenio4k.lat/logos/fox.png" group-title="DEPORTES PREMIUM",Fox Sports Premium
-http://aioplus.es:80/live/Grower24/TU_PASSWORD/ID_CANAL.ts
-
+http://aioplus.es:80/live/Grower24/Grower24/410.ts
