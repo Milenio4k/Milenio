@@ -1356,35 +1356,3 @@ http://monstertv.live:8080/Bernice2/Hoffa/1451.ts
 #EXTINF:-1 tvg-id="WinSportsPremium.co" tvg-name="WIN SPORTS PREMIUM" group-title="DEPORTES PREMIUM",WIN SPORTS PREMIUM
 http://monstertv.live:8080/Bernice2/Hoffa/1452.ts
 
-
-# --- DEPORTES PREMIUM (SERVIDOR ALTERNATIVO) ---
-
-#EXTINF:-1 tvg-id="WinSportsPremium.co" tvg-name="WIN SPORTS PREMIUM HD" group-title="DEPORTES",WIN SPORTS PREMIUM
-http://rlatinop.com:8080/Bernice2/Hoffa/1452.ts
-
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN HD" group-title="DEPORTES",ESPN HD
-http://rlatinop.com:8080/Bernice2/Hoffa/2145.ts
-
-#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2 HD" group-title="DEPORTES",ESPN 2 HD
-http://rlatinop.com:8080/Bernice2/Hoffa/2146.ts
-
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="FOX SPORTS HD" group-title="DEPORTES",FOX SPORTS HD
-http://rlatinop.com:8080/Bernice2/Hoffa/3210.ts
-
-#EXTINF:-1 tvg-id="DSports.ar" tvg-name="DIRECTV SPORTS HD" group-title="DEPORTES",DIRECTV SPORTS HD
-http://rlatinop.com:8080/Bernice2/Hoffa/2541.ts
-
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TYC SPORTS HD" group-title="DEPORTES",TYC SPORTS HD
-http://rlatinop.com:8080/Bernice2/Hoffa/4512.ts
-
-#EXTINF:-1 tvg-id="TNT Sports" tvg-name="TNT SPORTS HD" group-title="DEPORTES",TNT SPORTS HD
-http://rlatinop.com:8080/Bernice2/Hoffa/4450.ts
-
-# --- COLOMBIA (SERVIDOR ALTERNATIVO) ---
-
-#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="CARACOL TV HD" group-title="COLOMBIA",CARACOL TV HD
-http://rlatinop.com:8080/Bernice2/Hoffa/1245.ts
-
-#EXTINF:-1 tvg-id="RCN.co" tvg-name="RCN TV HD" group-title="COLOMBIA",RCN TV HD
-http://rlatinop.com:80/Bernice2/Hoffa/1246.ts
-
