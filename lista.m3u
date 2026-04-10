@@ -4,7 +4,7 @@
 # SECCIÓN: LARVA (Colección Completa 27 Caps)
 # ==========================================
 #EXTINF:-1 group-title="INFANTIL",LARVA - Yellow Saves The Day
-felizhttps://www.dropbox.com/scl/fi/vobh8tozqa0qtzrfzblxf/YELLOW-SAVES-THE-DAY_-_-LARVA-_-WildBrain-Kids-720P_HD.mp4?rlkey=twhigwxqv517kjwjax5lec97a&dl=1
+https://www.dropbox.com/scl/fi/vobh8tozqa0qtzrfzblxf/YELLOW-SAVES-THE-DAY_-_-LARVA-_-WildBrain-Kids-720P_HD.mp4?rlkey=twhigwxqv517kjwjax5lec97a&dl=1
 
 #EXTINF:-1 tvg-id="larva" tvg-name="LARVA" group-title="INFANTIL",LARVA - Larvatar
 https://www.dropbox.com/scl/fi/ounwsiwgi5d1vp0hwftoa/LARVATAR_-_-LARVA-_-WildBrain-Kids-720P_HD.mp4?rlkey=pq9y5cqsc8e5s9wtv6qvhzcvu&dl=1
@@ -1343,28 +1343,57 @@ http://monstertv.live:8080/movie/Bernice2/Hoffa/964745.mkv
 #EXTINF:-1 tvg-name="The Last of the Sea Women (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jhTnfQh9lWmRf0eAX1GNXYuIs5.jpg" group-title="Documentary",The Last of the Sea Women (2024)
 http://monstertv.live:8080/movie/Bernice2/Hoffa/964278.mkv
 
-
 #EXTINF:-1 tvg-id="WinSportsPremium.co" tvg-name="WIN SPORTS PREMIUM" tvg-logo="https://i.imgur.com/8N69yL6.png" group-title="DEPORTES PREMIUM",WIN SPORTS PREMIUM
 http://monstertv.live:8080/Bernice2/Hoffa/1452
-
 #EXTINF:-1 tvg-id="DSports.ar" tvg-name="DIRECTV SPORTS HD" tvg-logo="https://i.imgur.com/E0nS49m.png" group-title="DEPORTES PREMIUM",DIRECTV SPORTS HD
 http://monstertv.live:8080/Bernice2/Hoffa/2541
-
 #EXTINF:-1 tvg-id="DSports2.ar" tvg-name="DIRECTV SPORTS 2 HD" tvg-logo="https://i.imgur.com/E0nS49m.png" group-title="DEPORTES PREMIUM",DIRECTV SPORTS 2 HD
 http://monstertv.live:8080/Bernice2/Hoffa/2542
-
 #EXTINF:-1 tvg-id="DSportsPlus.ar" tvg-name="DIRECTV SPORTS PLUS HD" tvg-logo="https://i.imgur.com/E0nS49m.png" group-title="DEPORTES PREMIUM",DIRECTV SPORTS PLUS HD
 http://monstertv.live:8080/Bernice2/Hoffa/2543
-
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN HD" tvg-logo="https://i.imgur.com/qLh5uMh.png" group-title="DEPORTES PREMIUM",ESPN HD
-http://monstertv.live:8080/Bernice2/Hoffa/2145
-
-#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2 HD" tvg-logo="https://i.imgur.com/qLh5uMh.png" group-title="DEPORTES PREMIUM",ESPN 2 HD
-http://monstertv.live:8080/Bernice2/Hoffa/2146
-
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="FOX SPORTS HD" tvg-logo="https://i.imgur.com/f2M2L8m.png" group-title="DEPORTES PREMIUM",FOX SPORTS HD
 http://monstertv.live:8080/Bernice2/Hoffa/3210
-
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://i.imgur.com/f2M2L8m.png" group-title="DEPORTES PREMIUM",FOX SPORTS 2 HD
+http://monstertv.live:8080/Bernice2/Hoffa/3211
+#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="FOX SPORTS 3 HD" tvg-logo="https://i.imgur.com/f2M2L8m.png" group-title="DEPORTES PREMIUM",FOX SPORTS 3 HD
+http://monstertv.live:8080/Bernice2/Hoffa/3212
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN HD" tvg-logo="https://i.imgur.com/qLh5uMh.png" group-title="DEPORTES PREMIUM",ESPN HD
+http://monstertv.live:8080/Bernice2/Hoffa/2145
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2 HD" tvg-logo="https://i.imgur.com/qLh5uMh.png" group-title="DEPORTES PREMIUM",ESPN 2 HD
+http://monstertv.live:8080/Bernice2/Hoffa/2146
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="ESPN 3 HD" tvg-logo="https://i.imgur.com/qLh5uMh.png" group-title="DEPORTES PREMIUM",ESPN 3 HD
+http://monstertv.live:8080/Bernice2/Hoffa/2147
+#EXTINF:-1 tvg-id="ESPN4.ar" tvg-name="ESPN 4 HD" tvg-logo="https://i.imgur.com/qLh5uMh.png" group-title="DEPORTES PREMIUM",ESPN 4 HD
+http://monstertv.live:8080/Bernice2/Hoffa/2148
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN PREMIUM HD" tvg-logo="https://i.imgur.com/qLh5uMh.png" group-title="DEPORTES PREMIUM",ESPN PREMIUM HD
+http://monstertv.live:8080/Bernice2/Hoffa/2149
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TYC SPORTS HD" tvg-logo="https://i.imgur.com/LhB2uYp.png" group-title="DEPORTES PREMIUM",TYC SPORTS HD
+http://monstertv.live:8080/Bernice2/Hoffa/4512
 #EXTINF:-1 tvg-id="TNT Sports" tvg-name="TNT SPORTS HD" tvg-logo="https://i.imgur.com/XG1j7Z8.png" group-title="DEPORTES PREMIUM",TNT SPORTS HD
 http://monstertv.live:8080/Bernice2/Hoffa/4450
+#EXTINF:-1 tvg-id="GOLTV.ec" tvg-name="GOLTV HD" tvg-logo="https://i.imgur.com/V9X9D8F.png" group-title="DEPORTES PREMIUM",GOLTV HD
+http://monstertv.live:8080/Bernice2/Hoffa/3321
 
+# --- CANALES DE COLOMBIA ---
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="CARACOL TV HD" tvg-logo="https://i.imgur.com/8N69yL6.png" group-title="COLOMBIA",CARACOL TV HD
+http://monstertv.live:8080/Bernice2/Hoffa/1245
+#EXTINF:-1 tvg-id="RCN.co" tvg-name="RCN TV HD" tvg-logo="https://i.imgur.com/8N69yL6.png" group-title="COLOMBIA",RCN TV HD
+http://monstertv.live:8080/Bernice2/Hoffa/1246
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="WIN SPORTS HD" tvg-logo="https://i.imgur.com/8N69yL6.png" group-title="COLOMBIA",WIN SPORTS HD
+http://monstertv.live:8080/Bernice2/Hoffa/1451
+#EXTINF:-1 tvg-id="CityTV.co" tvg-name="CITY TV HD" tvg-logo="https://i.imgur.com/8N69yL6.png" group-title="COLOMBIA",CITY TV HD
+http://monstertv.live:8080/Bernice2/Hoffa/1247
+#EXTINF:-1 tvg-id="SenalColombia.co" tvg-name="SEÑAL COLOMBIA" tvg-logo="https://i.imgur.com/8N69yL6.png" group-title="COLOMBIA",SEÑAL COLOMBIA
+http://monstertv.live:8080/Bernice2/Hoffa/1248
+
+# --- CANALES INFANTILES ---
+#EXTINF:-1 tvg-id="DisneyChannel.la" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://i.imgur.com/v8R9yL6.png" group-title="INFANTILES",DISNEY CHANNEL HD
+http://monstertv.live:8080/Bernice2/Hoffa/5120
+#EXTINF:-1 tvg-id="CartoonNetwork.la" tvg-name="CARTOON NETWORK HD" tvg-logo="https://i.imgur.com/v8R9yL6.png" group-title="INFANTILES",CARTOON NETWORK HD
+http://monstertv.live:8080/Bernice2/Hoffa/5121
+#EXTINF:-1 tvg-id="Nickelodeon.la" tvg-name="NICKELODEON HD" tvg-logo="https://i.imgur.com/v8R9yL6.png" group-title="INFANTILES",NICKELODEON HD
+http://monstertv.live:8080/Bernice2/Hoffa/5122
+#EXTINF:-1 tvg-id="DiscoveryKids.la" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://i.imgur.com/v8R9yL6.png" group-title="INFANTILES",DISCOVERY KIDS HD
+http://monstertv.live:8080/Bernice2/Hoffa/5123
+#EXTINF:-1 tvg-name="PHINEAS Y FERB 24/7" group-title="INFANTILES",PHINEAS Y FERB 24/7
+http://monstertv.live:8080/Bernice2/Hoffa/5500
