@@ -1271,9 +1271,6 @@ http://monstertv.live:8080/movie/Bernice2/Hoffa/869239.mp4
 #EXTINF:-1 tvg-name="Kung Fu Panda (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg" group-title="Action",Kung Fu Panda (2008)
 http://monstertv.live:8080/movie/Bernice2/Hoffa/694509.mp4
 
-#EXTINF:-1 tvg-name="Harry Potter and the Philosopher's Stone (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuMc08IPG7jbT96TMtjebN9oCh6.jpg" group-title="Adventure",Harry Potter and the Philosopher's Stone (2001)
-http://monstertv.live:8080/movie/Bernice2/Hoffa/693583.mkv
-
 #EXTINF:-1 tvg-name="The Pope's Exorcist (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JBEPLTPSm0d1mbEcLxULjJq9Eh.jpg" group-title="Horror",The Pope's Exorcist (2023)
 http://monstertv.live:8080/movie/Bernice2/Hoffa/727605.mp4
 
@@ -1346,61 +1343,11 @@ http://monstertv.live:8080/movie/Bernice2/Hoffa/964745.mkv
 #EXTINF:-1 tvg-name="The Last of the Sea Women (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jhTnfQh9lWmRf0eAX1GNXYuIs5.jpg" group-title="Documentary",The Last of the Sea Women (2024)
 http://monstertv.live:8080/movie/Bernice2/Hoffa/964278.mkv
 
-#EXTINF:-1 tvg-name="Breaking the Silence: The Maria Soledad Case (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cbUELk2kQw5QqETOvJ26D3V9TZ.jpg" group-title="Documentary",Breaking the Silence (2024)
-http://monstertv.live:8080/movie/Bernice2/Hoffa/963064.mkv
+#EXTINF:-1 tvg-name="Mufasa: The Lion King (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/988205.jpg" group-title="Family",Mufasa (2024)
+http://monstertv.live:8080/movie/Bernice2/Hoffa/988200.mkv
 
-#EXTINF:-1 tvg-name="Deadpool & Wolverine (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cdcl36ZfBEXI9pS9mMN97v9y9s.jpg" group-title="Action",Deadpool & Wolverine (2024)
-http://monstertv.live:8080/movie/Bernice2/Hoffa/955234.mkv
+#EXTINF:-1 tvg-name="Kung Fu Panda 4 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/869505.jpg" group-title="Animation",Kung Fu Panda 4 (2024)
+http://monstertv.live:8080/movie/Bernice2/Hoffa/869500.mkv
 
-#EXTINF:-1 tvg-name="The Idea of You (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbe7isS9OnAnisL7uSAs63O9X96.jpg" group-title="Comedy",The Idea of You (2024)
-http://monstertv.live:8080/movie/Bernice2/Hoffa/869412.mkv
-
-#EXTINF:-1 tvg-name="The Fall Guy (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vR7SOfL89V5fKx9mXN81Z77G9yT.jpg" group-title="Action",The Fall Guy (2024)
-http://monstertv.live:8080/movie/Bernice2/Hoffa/869405.mkv
-
-#EXTINF:-1 tvg-name="IF (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7vHnN3f7902Z9i0zX5076Uf7iZ.jpg" group-title="Family",IF (2024)
-http://monstertv.live:8080/movie/Bernice2/Hoffa/869388.mkv
-
-#EXTINF:-1 tvg-name="Spaceman (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pS773fKxZ18uSNo8FToU79M1O3W.jpg" group-title="Sci-Fi",Spaceman (2024)
-http://monstertv.live:8080/movie/Bernice2/Hoffa/869355.mkv
-
-#EXTINF:-1 tvg-name="Argylle (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9u6HEtZJdZDjPGGJq6YEuhPnoan.jpg" group-title="Action",Argylle (2024)
-http://monstertv.live:8080/movie/Bernice2/Hoffa/868352.mkv
-
-#EXTINF:-1 tvg-name="The Mitchells vs. the Machines (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0S63H208YI0_M6F5WbHjS778L.jpg" group-title="Animation",Mitchells vs Machines (2021)
-http://monstertv.live:8080/movie/Bernice2/Hoffa/693700.mp4
-
-#EXTINF:-1 tvg-name="Free http://monstertv.live:8080/movie/Bernice2/Hoffa/694280.mp4
-
-#EXTINF:-1 tvg-name="Monsters, Inc. (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6Z282n0S0r9X6XoJ146M663D7.jpg" group-title="Animation",Monsters Inc (2001)
-http://monstertv.live:8080/movie/Bernice2/Hoffa/693860.mp4
-
-#EXTINF:-1 tvg-name="Toy Story 2 (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9D_D9D_v99kX59f6V8Xv9P9X.jpg" group-title="Animation",Toy Story 2 (1999)
-http://monstertv.live:8080/movie/Bernice2/Hoffa/694640.mp4
-
-#EXTINF:-1 tvg-name="Mulan (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbe7isS9OnAnisL7uSAs63O9X96.jpg" group-title="Animation",Mulan (1998)
-http://monstertv.live:8080/movie/Bernice2/Hoffa/693870.mp4
-
-#EXTINF:-1 tvg-name="Hercules (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cdcl36ZfBEXI9pS9mMN97v9y9s.jpg" group-title="Animation",Hercules (1997)
-http://monstertv.live:8080/movie/Bernice2/Hoffa/693090.mp4
-
-#EXTINF:-1 tvg-name="Toy Story (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vS7_fS_pS773fKxZ18uSNo8FToU.jpg" group-title="Animation",Toy Story (1995)
-http://monstertv.live:8080/movie/Bernice2/Hoffa/694630.mp4
-
-#EXTINF:-1 tvg-name="The Lion King (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3w_A93xP0_N9fX4P9_m9m_7_D.jpg" group-title="Animation",The Lion King (1994)
-http://monstertv.live:8080/movie/Bernice2/Hoffa/693390.mp4
-
-#EXTINF:-1 tvg-name="Aladdin (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9u6HEtZJdZDjPGGJq6YEuhPnoan.jpg" group-title="Animation",Aladdin (1992)
-http://monstertv.live:8080/movie/Bernice2/Hoffa/690490.mp4
-
-#EXTINF:-1 tvg-name="Beauty and the Beast (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0S63H208YI0_M6F5WbHjS778L.jpg" group-title="Animation",Beauty and the Beast (1991)
-http://monstertv.live:8080/movie/Bernice2/Hoffa/690850.mp4
-
-#EXTINF:-1 tvg-name="The Little Mermaid (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7S6j79TM66Xv6vW9C3v0lUlv6P.jpg" group-title="Animation",The Little Mermaid (1989)
-http://monstertv.live:8080/movie/Bernice2/Hoffa/693450.mp4
-
-#EXTINF:-1 tvg-name="Wall-E (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3w_A93xP0_N9fX4P9_m9m_7_D.jpg" group-title="Animation",Wall-E (2008)
-http://monstertv.live:8080/movie/Bernice2/Hoffa/694880.mp4
-
-
-
+#EXTINF:-1 tvg-name="Bad Boys: Ride or Die (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/920105.jpg" group-title="Action",Bad Boys 4 (2024)
+http://monstertv.live:8080/movie/Bernice2/Hoffa/920100.mkv
