@@ -1496,31 +1496,23 @@ http://monstertv.live:8080/movie/Bernice2/Hoffa/692608.mkv
 http://monstertv.live:8080/movie/Bernice2/Hoffa/690190.mp4
 #EXTINF:-1 tvg-id="" tvg-name="14 Peaks: Nothing Is Impossible (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/366I6V6B8u2LhYInS6X2m48W07S.jpg" group-title="Documentary",14 Peaks: Nothing Is Impossible (2021)
 http://monstertv.live:8080/movie/Bernice2/Hoffa/690191.mkv
-#EXTINF:-1 xui-id="43771" tvg-id="" tvg-name="ATV+" tvg-logo="https://lokuratv.xyz:443/images/iDNouS1M6v0INOESFPGnyscesvkv_aoacljTEF2ZdnnDj9cIMK-fhyLaSW16rK1XuUEKrApVACUS-vIE-2z4yyfUfdW3MNDLDrR-INOIpO4.jpg" group-title="▶️ PERU",ATV+
-https://aioplus.es:443/play/oRu9uPY8hcY7DwwuT2Tic0oaNTaqCPBPm9wq9lElwoc/ts
-#EXTINF:-1 xui-id="43773" tvg-id="" tvg-name="RPP" tvg-logo="https://lokuratv.xyz:443/images/7Bhg4E2R2Qd8j-W5JEQWeyVMNQKPCLbJfz2ZpApXAnZPD1RY5QZk-Qz5biOLNBEP.jpg" group-title="▶️ PERU",RPP
-https://aioplus.es:443/play/oRu9uPY8hcY7DwwuT2TicxhsrliX6i2UwWjGPQwhzoQ/ts
-#EXTINF:-1 xui-id="43775" tvg-id="" tvg-name="GLOBAL" tvg-logo="https://lokuratv.xyz:443/images/yWeTzLOyALqAYifOk18X8NvOn2pcwAXWmYiG_cVXDWPEHM8KRaInDsfTvZ_LErBbN37wFsjqo3IZJiC6ppy47vWT6eQsY3AtvSWXsT4pGGs.jpg" group-title="▶️ PERU",GLOBAL
-https://aioplus.es:443/play/oRu9uPY8hcY7DwwuT2Tic4vHEEw22HSR8ftsea6mXms/ts
-#EXTINF:-1 xui-id="43776" tvg-id="" tvg-name="Willax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyK-aU54kY94UkBom8Aue-9fwvmbbVMSp2mg&s" group-title="▶️ PERU",Willax
-https://aioplus.es:443/play/oRu9uPY8hcY7DwwuT2Tic5r1ik_hL5iotjQgIkfoekc/ts
-#EXTINF:-1 xui-id="43780" tvg-id="" tvg-name="Ovacion TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHiwjXjZHjLlaJ4axHUeLerokos9STfSX5sA&s" group-title="⚽⚽DEPORTES PERU⚽⚽",Ovacion TV
-https://aioplus.es:443/play/oRu9uPY8hcY7DwwuT2Tic7TJUou3_VoH-yfCQCpr_dU/ts
-#EXTINF:-1 xui-id="152155" tvg-id="" tvg-name="MOVISTAR PLUS  HD" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2019/09/Logo-Movistar-Plus-color-azul-fondo-azul-claro.png?x=500&y=295&quality=80" group-title="⚽⚽DEPORTES PERU⚽⚽",MOVISTAR PLUS  HD
-https://aioplus.es:443/play/oRu9uPY8hcY7DwwuT2Tic0g-n0mxOfeS-xCdUhkM_Gc/ts
-#EXTINF:-1 xui-id="202437" tvg-id="" tvg-name="AyM SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNkqyZg3t6OX8Cj5UzQpSdRn2Y-2-MQDBs-g&s" group-title="▶️ DEPORTES MEXICO",AyM SPORT
-https://aioplus.es:443/play/oRu9uPY8hcY7DwwuT2Tic24HA0FrOFd1iyZDZt9CGn0/ts
-#EXTINF:-1 xui-id="203137" tvg-id="Al Jazeera HD" tvg-name="AL JAZEERA [SKY]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr1O_adWlZ9CI-pIosaXB83edvL-wlo3fWQg&s" group-title="▶️ MEXICO SKY",AL JAZEERA [SKY]
-https://aioplus.es:443/play/oRu9uPY8hcY7DwwuT2Tic1IjViPngm9hSpME5X1Nsmk/ts
-#EXTINF:-1 xui-id="203138" tvg-id="amc.mx" tvg-name="AMC [SKY]" tvg-logo="https://lokuratv.xyz:443/images/BxTUm50QU-GDu6Vgg6gLxrjkk5dmBJf42jl7ldaWSfMzRWtheTDWo4wGAjQYX4NEWV5CXLhnS7QCFp27ARvNqs44sY-YOrfJQukbNULh4dU.png" group-title="▶️ MEXICO SKY",AMC [SKY]
-https://aioplus.es:443/play/oRu9uPY8hcY7DwwuT2Tic7A4ygGvo6mlZhRwlKNyn-c/ts
-#EXTINF:-1 xui-id="203139" tvg-id="Animal Planet" tvg-name="ANIMAL PLANET [SKY]" tvg-logo="https://lokuratv.xyz:443/images/ayfdHaSGfQQ7HLxmvsjLeNOMO0YI7CYQUjaByTqTsk-GPPNy3tstzM1pDG6DcUyjyKXkXUApdEVlDwIgw2vqSg.png" group-title="▶️ MEXICO SKY",ANIMAL PLANET [SKY]
-https://aioplus.es:443/play/oRu9uPY8hcY7DwwuT2TicySRJ2kfj4CfbL58CXa04as/ts
-#EXTINF:-1 xui-id="203141" tvg-id="azteca13.mx" tvg-name="AZTECA 1 [SKY]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcnf75SM_42XuLvdG8sVwrfF4tD9iTLNnKhw&s" group-title="▶️ MEXICO SKY",AZTECA 1 [SKY]
-https://aioplus.es:443/play/oRu9uPY8hcY7DwwuT2Tic-WQyaBx9-GA42c_BbmkOEc/ts
-#EXTINF:-1 xui-id="203142" tvg-id="azteca7.mx" tvg-name="AZTECA 7 [SKY]" tvg-logo="https://lokuratv.xyz:443/images/dsAt8cMDBjbP3mVNdeYR4RQmqCkWNRbJ11zFmrdqo0RYIy3cLJEA0ltqu6xV7s8J.png" group-title="▶️ MEXICO SKY",AZTECA 7 [SKY]
-https://aioplus.es:443/play/oRu9uPY8hcY7DwwuT2Tic1wP5s6ywvAOxHm2mhIX1N8/ts
-#EXTINF:-1 xui-id="203143" tvg-id="bandamax.mx" tvg-name="BANDAMAX [SKY]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsbkOUtQlC2mMmMK2lWI-4c12qerqulfhV6w&s" group-title="▶️ MEXICO SKY",BANDAMAX [SKY]
-https://aioplus.es:443/play/oRu9uPY8hcY7DwwuT2Tic5Sjo4TEbiuRlLK_dt2b0Ds/ts
-#EXTINF:-1 xui-id="203144" tvg-id="BITIME.mx" tvg-name="BITME [SKY]" tvg-logo="https://i0.wp.com/municipiosur.com/wp-content/uploads/2019/07/bitme.jpg?resize=1020%2C438&ssl=1" group-title="▶️ MEXICO SKY",BITME [SKY]
-https://aioplus.es:443/play/oRu9uPY8hcY7DwwuT2Tic-yLnvAWCCbKOtV77g4WxJU/ts
+#EXTINF:-1 xui-id="215255" tvg-name="Más Allá de la Herencia (2020)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1CtyuriOGeinY02IbOBCcFO9off7AupvlZucRzOJssBNUY.jpg" group-title="♦️NETFLIX♦️",Más Allá de la Herencia (2020)
+https://aioplus.es:443/play/cqfFv0o1VtGURoVR592cXEwhR8CW67mMbeoUeJtMPGIcUFgYVlbeWTsJubdMZccg#.mkv
+#EXTINF:-1 xui-id="215256" tvg-name="Equipaje de mano (2024)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1Ct7vAqxieyxHF-Gz2tBOPANFlGQHRX9BVYQKKs3m66POI.jpg" group-title="♦️NETFLIX♦️",Equipaje de mano (2024)
+https://aioplus.es:443/play/cqfFv0o1VtGURoVR592cXIlUSftriBFanjb5UT0nXlq22FITyQ5pdU7ChIkBYLv0#.mkv
+#EXTINF:-1 xui-id="215259" tvg-name="La herencia tiene un precio (2024)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1Cty7_VCr6da_ekFMJvshrxGwwpjOVP-FbCRTUj1uW4kpU.jpg" group-title="♦️NETFLIX♦️",La herencia tiene un precio (2024)
+https://aioplus.es:443/play/cqfFv0o1VtGURoVR592cXGGRQTmCmnYUtIzoA6X1_MmkC7IynDaE5SzEeZcRx9tH#.mkv
+#EXTINF:-1 xui-id="215262" tvg-name="La más fan (2025)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1CtdmoW4hesJ8eZbTYb1yVEsGJGrJsMZWLGsk5Kml6kVQk.jpg" group-title="♦️NETFLIX♦️",La más fan (2025)
+https://aioplus.es:443/play/cqfFv0o1VtGURoVR592cXLqU13CTt0BJwJhftNbUFyekHM0QWRjtKlVyRHs5OkWm#.mkv
+#EXTINF:-1 xui-id="215273" tvg-name="Las guerreras k-pop (2025)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1Ct1NlJvfON-km5JPNCkuphMQtd08V29rhjpCAWJY8ylLQ.jpg" group-title="♦️NETFLIX♦️",Las guerreras k-pop (2025)
+https://aioplus.es:443/play/cqfFv0o1VtGURoVR592cXGCFBqtenMf1gOFPR7QbgLUteonbxpUwMQsaJumOnoNK#.mkv
+#EXTINF:-1 xui-id="215277" tvg-name="Goyo (2024)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1CtOFwLrfk_VYlS-sOSW79FSy2FwPQikVqhmo_tTn1nLCA.jpg" group-title="♦️NETFLIX♦️",Goyo (2024)
+https://aioplus.es:443/play/cqfFv0o1VtGURoVR592cXJOB-192Jls_cthjCd9ld9ucrTTjYQ5LAjo-swtCb6mE#.mkv
+#EXTINF:-1 xui-id="215285" tvg-name="Harry Brown (2009)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1CtQHlBhLs7T0HDweFj23IanXDJFNhKx71TApVzqxSkj5w.jpg" group-title="♦️NETFLIX♦️",Harry Brown (2009)
+https://aioplus.es:443/play/cqfFv0o1VtGURoVR592cXKU3X8UBrtIOVyZBk6NeoZe6HpRXGWBffouqg5KxnJ-9#.mp4
+#EXTINF:-1 xui-id="215287" tvg-name="Los colores del mal: Rojo (2024)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1CtDcHEKgLbbvhTkrv01C8ojS6_hVsjQ2lXJesu2ri5OVo.jpg" group-title="♦️NETFLIX♦️",Los colores del mal: Rojo (2024)
+https://aioplus.es:443/play/cqfFv0o1VtGURoVR592cXP4QBtt0ghyxezguRHJAz9ub9EvLN01IX1_UyhyY0eT3#.mkv
+#EXTINF:-1 xui-id="215291" tvg-name="Los pingüinos del Sr. Poper (2011)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1Ctq4gpm-d_sQPx_SRk0PXXqADWKfoQOJAgkP1UpAcKj7s.jpg" group-title="♦️NETFLIX♦️",Los pingüinos del Sr. Poper (2011)
+https://aioplus.es:443/play/cqfFv0o1VtGURoVR592cXMpZgb5Nm-B66mDfKTCZobm14HnhAuHA6BeN6tKtO0Uk#.mkv
+#EXTINF:-1 xui-id="215302" tvg-name="Mala influencia (2025)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1CtfiNHW0vvi_BmlvoS6DtHRkpyydRm-iB_pLQJVR8cbOU.jpg" group-title="♦️NETFLIX♦️",Mala influencia (2025)
+https://aioplus.es:443/play/cqfFv0o1VtGURoVR592cXLiRWnHXd1flEwizuwp2eRI5dVRdI5CdtkA-Myjok_ex#.mkv
