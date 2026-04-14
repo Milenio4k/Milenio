@@ -1449,3 +1449,22 @@ http://monstertv.live:8080/Bernice2/Hoffa/1043660
 
 #EXTINF:-1 group-title="🌎 ESPN LATAM",ESPN Norte HD
 http://monstertv.live:8080/Bernice2/Hoffa/1043661
+
+####################################
+########## ⚽ DIRECTV SPORTS ##########
+####################################
+
+#EXTINF:-1 tvg-name="DirecTV Sports 1 FHD" group-title="⚽ DIRECTV SPORTS",DirecTV Sports 1 FHD
+http://monstertv.live:8080/Bernice2/Hoffa/1044488
+
+#EXTINF:-1 tvg-name="DirecTV Sports 1 HD" group-title="⚽ DIRECTV SPORTS",DirecTV Sports 1 HD
+http://monstertv.live:8080/Bernice2/Hoffa/1044489
+
+#EXTINF:-1 tvg-name="DirecTV Sports 2 FHD" group-title="⚽ DIRECTV SPORTS",DirecTV Sports 2 FHD
+http://monstertv.live:8080/Bernice2/Hoffa/1044490
+
+#EXTINF:-1 tvg-name="DirecTV Sports 2 HD" group-title="⚽ DIRECTV SPORTS",DirecTV Sports 2 HD
+http://monstertv.live:8080/Bernice2/Hoffa/1044491
+
+#EXTINF:-1 tvg-name="DirecTV Sports+ HD" group-title="⚽ DIRECTV SPORTS",DirecTV Sports+ HD
+http://monstertv.live:8080/Bernice2/Hoffa/1044492
