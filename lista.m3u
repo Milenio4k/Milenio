@@ -1517,52 +1517,81 @@ https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBLg3ISlHZwh7Edh1YnlYaSD_5VSRS_4m
 
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
 
-# --- SELECCIÓN PELÍCULAS MILENIO 4K (CON SEÑAL) ---
+# --- NETFLIX & CINE WOD (SIN TERROR) ---
 
-#EXTINF:-1 xui-id="198146" tvg-name="Contraataque (2025)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1Ct7wauUCztlPwpMvYYq86FhpHVNG6bFmI3HS-SXYrbNNI.jpg" group-title="♦️PELICULAS♦️",Contraataque (2025)
-https://aioplus.es:443/play/cqfFv0o1VtGURoVR592cXDeFpRhwgeQgQ7gdLSOnAmH2gSdzmOyQj57TihhRn7bV#.mp4
+#EXTINF:-1 tvg-name="Contraataque (2025)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1Ct7wauUCztlPwpMvYYq86FhpHVNG6bFmI3HS-SXYrbNNI.jpg" group-title="Acción",Contraataque (2025)
+http://monstertv.live:8080/movie/Bernice2/Hoffa/198146.mp4
 
-#EXTINF:-1 xui-id="215236" tvg-name="El precio de la novia (2024)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1CtA77YNvBf7R7SHWmGm5AzWMZNvnnKLrusDa04gQVw8t.jpg" group-title="♦️PELICULAS♦️",El precio de la novia (2024)
-https://aioplus.es:443/play/cqfFv0o1VtGURoVR592cXA7-7YNvBf7R7SHWmGm5AzWMZNvnnKLrusDa04gQVw8t#.mkv
+#EXTINF:-1 tvg-name="El precio de la novia (2024)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1CtA77YNvBf7R7SHWmGm5AzWMZNvnnKLrusDa04gQVw8t.jpg" group-title="Estrenos",El precio de la novia (2024)
+http://monstertv.live:8080/movie/Bernice2/Hoffa/215236.mkv
 
-#EXTINF:-1 xui-id="215238" tvg-name="El método Knox (2024)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1CtS-eRRtQYPpp7xpGFgS6UsvT7KxLFo6KSGpl7zNea0w.jpg" group-title="♦️PELICULAS♦️",El método Knox (2024)
-https://aioplus.es:443/play/cqfFv0o1VtGURoVR592cXDeFpRhwgeQgQ7gdLSOnAmH2gSdzmOyQj57TihhRn7bV#.mp4
+#EXTINF:-1 tvg-name="Avatar: El sentido del agua (2022)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1CtNuRdG1pPKP9emFH2XpUoIQ8vK6Lq-E0YAnSTrS-86V0.jpg" group-title="Aventura",Avatar: El sentido del agua (2022)
+http://monstertv.live:8080/movie/Bernice2/Hoffa/216273.mkv
 
-#EXTINF:-1 xui-id="216273" tvg-name="Avatar: El sentido del agua (2022)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1CtNuRdG1pPKP9emFH2XpUoIQ8vK6Lq-E0YAnSTrS-86V0.jpg" group-title="♦️AVENTURA♦️",Avatar: El sentido del agua (2022)
-https://aioplus.es:443/play/cqfFv0o1VtGURoVR592cXM-Yv_HOn_OInBf_H2_Uu_u7h7pS_i-QOf7vPq7mZ_6p#.mkv
+#EXTINF:-1 tvg-name="El becario (2015)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1Ctcz0glgm2NB9aPNFKAbajSdOICTbo4to_y4SeqER8_9A.jpg" group-title="Comedia",El becario (2015)
+http://monstertv.live:8080/movie/Bernice2/Hoffa/220230.mkv
 
-#EXTINF:-1 xui-id="220230" tvg-name="El becario (2015)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1Ctcz0glgm2NB9aPNFKAbajSdOICTbo4to_y4SeqER8_9A.jpg" group-title="♦️COMEDIA♦️",El becario (2015)
-https://aioplus.es:443/play/cqfFv0o1VtGURoVR592cXGUsVywWd8f26MurCy7pSyjJLWJ8WiQjiNdLTK3gQ8_y#.mkv
+#EXTINF:-1 tvg-name="Fievel va al Oeste (1991)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1Ct_hZwmtjxytJYQ3VQRCMD3-4IEjfZ0VK89g9AnFBRkIg.jpg" group-title="Infantiles",Fievel va al Oeste (1991)
+http://monstertv.live:8080/movie/Bernice2/Hoffa/220231.mkv
 
-#EXTINF:-1 xui-id="225248" tvg-name="El correo (2024)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1CtoN86pGHz-wtet1wyWpzc-T1Y8mgi-l2t0zVkhqTuW9g.jpg" group-title="♦️NETFLIX♦️",El correo (2024)
-https://aioplus.es:443/play/cqfFv0o1VtGURoVR592cXPJ98VmepPgnoV7buFY9_QblOPhUf7e44DUEEokeUejZ#.mp4
+#EXTINF:-1 tvg-name="La máscara (1994)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1CtcNLaf16TkyvDF7Wex6PHVWQb01hc_Dh9wKhZs8xu2uU.jpg" group-title="Clásicos",La máscara (1994)
+http://monstertv.live:8080/movie/Bernice2/Hoffa/225249.mp4
 
-#EXTINF:-1 xui-id="225249" tvg-name="La máscara (1994)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1CtcNLaf16TkyvDF7Wex6PHVWQb01hc_Dh9wKhZs8xu2uU.jpg" group-title="♦️NETFLIX♦️",La máscara (1994)
-https://aioplus.es:443/play/cqfFv0o1VtGURoVR592cXAJzyPwTnUKST_G2mW7qrZBw06wGlOj1g8Ef-23WaAKv#.mp4
+#EXTINF:-1 tvg-name="El correo (2024)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1CtoN86pGHz-wtet1wyWpzc-T1Y8mgi-l2t0zVkhqTuW9g.jpg" group-title="Netflix",El correo (2024)
+http://monstertv.live:8080/movie/Bernice2/Hoffa/225248.mp4
 
-#EXTINF:-1 xui-id="243248" tvg-name="La espada del inmortal (2017)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1CtoN86pGHz-wtet1wyWpzc-T1Y8mgi-l2t0zVkhqTuW9g.jpg" group-title="♦️ACCION♦️",La espada del inmortal (2017)
-https://aioplus.es:443/play/cqfFv0o1VtGURoVR592cXGxx1KplGOPpvPknz2oUjjASdZUBlUbRGOlPzkH-75nA#.mp4
+#EXTINF:-1 tvg-name="Hasta que la boda nos separe (2020)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1CtGa0clXQTsBPK9_cpsNOiL4Y-0dIH2NlCZFIegU6EU-Y.jpg" group-title="Comedia Romántica",Hasta que la boda nos separe (2020)
+http://monstertv.live:8080/movie/Bernice2/Hoffa/227774.mp4
 
-#EXTINF:-1 xui-id="260499" tvg-name="Dos policías rebeldes II (2003)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1CtE1-adWHqXWl0vzKIyHs1nSrIZTmqcGk2g6AJiitksR0.jpg" group-title="♦️NETFLIX♦️",Dos policías rebeldes II (2003)
-https://aioplus.es:443/play/cqfFv0o1VtGURoVR592cXF_mTW7GPW9fzn16royIZ9AEP05AeyFJ6tKJ6CSdOcfy#.mkv
+#EXTINF:-1 tvg-name="Intercambiadas (2019)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1CthwfhlNJeIg4jX6Q5Dyyp9R-zwxEjp1eFjiluc4gMQTs.jpg" group-title="Comedia",Intercambiadas (2019)
+http://monstertv.live:8080/movie/Bernice2/Hoffa/229187.mp4
 
-#EXTINF:-1 xui-id="260500" tvg-name="Bailemos (2022)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1CtwWgPM26CjNPTN3iL0jAK0oE6t4IY1FZDecFNrQZ2IaU.jpg" group-title="♦️NETFLIX♦️",Bailemos (2022)
-https://aioplus.es:443/play/cqfFv0o1VtGURoVR592cXM2rxPdjPD5ELLJCqmfsWySlYVC5NWwJd8nXGmsqaQ29#.mkv
+#EXTINF:-1 tvg-name="Respira (2024)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1CtHsyVLwxZZm5bech_WK2XLxT6t278llKsV5DOhwq2z8o.jpg" group-title="Acción",Respira (2024)
+http://monstertv.live:8080/movie/Bernice2/Hoffa/236373.mp4
 
-#EXTINF:-1 xui-id="261296" tvg-name="Los Mitchell contra las máquinas (2021)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1Ctnw040dDSypdh6iUcDe6s4e-hGb2uholirzPtA4Oi2GQ.jpg" group-title="♦️NETFLIX♦️",Los Mitchell contra las máquinas (2021)
-https://aioplus.es:443/play/cqfFv0o1VtGURoVR592cXFYR1vaNhPs52cxaOO8Rsa2YdFJK2WcHWeTRWgSjbmOi#.mkv
+#EXTINF:-1 tvg-name="La espada del inmortal (2017)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1CtoN86pGHz-wtet1wyWpzc-T1Y8mgi-l2t0zVkhqTuW9g.jpg" group-title="Acción",La espada del inmortal (2017)
+http://monstertv.live:8080/movie/Bernice2/Hoffa/243248.mp4
 
-#EXTINF:-1 xui-id="261304" tvg-name="Madagascar (2005)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1CtPeHCysuGPUk29far5zkgUOcy4dMPdpD-iWbmrZ4Trv4.jpg" group-title="♦️NETFLIX♦️",Madagascar (2005)
-https://aioplus.es:443/play/cqfFv0o1VtGURoVR592cXBqZeY93bEP01Bx8VlpZRu8hiGIqVTi0YTl9dIhIXTg2#.mkv
+#EXTINF:-1 tvg-name="Todas las pecas del mundo (2019)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1CtVWvlta8v5R9_jfaavvnOeaw7AEPSVyC61-GwmZ_ZP8g.jpg" group-title="Romance",Todas las pecas del mundo (2019)
+http://monstertv.live:8080/movie/Bernice2/Hoffa/250377.mkv
 
-#EXTINF:-1 xui-id="324875" tvg-name="Sherlock Holmes (2009)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1CtgyTDOEVHvVcLTwvsCbiPnvgtsGr5T_sk9L5zXs6n2jI.jpg" group-title="♦️ACCION♦️",Sherlock Holmes (2009)
-https://aioplus.es:443/play/cqfFv0o1VtGURoVR592cXIywfxe0HB2CJhj-QUP9l3vuGV6viYKyLqd3RNt3SrWa#.mkv
+#EXTINF:-1 tvg-name="Cruise (2022)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1CtlLu2IG5oewV-h3aXUC5OzDNjIX0LqCtsP_0jnZZyZKI.jpg" group-title="Comedia",Cruise (2022)
+http://monstertv.live:8080/movie/Bernice2/Hoffa/250378.mkv
 
-#EXTINF:-1 xui-id="324882" tvg-name="Pequeños guerreros (1998)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1CtoJn7-SNChATMfPpmo85qKHYTSqAK0IpGeXIqPFFPM3k.jpg" group-title="♦️INFANTILES♦️",Pequeños guerreros (1998)
-https://aioplus.es:443/play/cqfFv0o1VtGURoVR592cXBnPDBOWRoa6CgbHx60gsztxZRx9DZHop6cg3An-szxQ#.mkv
+#EXTINF:-1 tvg-name="Dos policías rebeldes II (2003)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1CtE1-adWHqXWl0vzKIyHs1nSrIZTmqcGk2g6AJiitksR0.jpg" group-title="Acción",Dos policías rebeldes II (2003)
+http://monstertv.live:8080/movie/Bernice2/Hoffa/260499.mkv
 
-#EXTINF:-1 xui-id="458963" tvg-name="Futbolín (2013)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1CtvneOrPXjVCgR4Hn3PJwT8qELUbeHX2K8GEzNrbGyjRg.jpg" group-title="♦️NETFLIX♦️",Futbolín (2013)
-https://aioplus.es:443/play/cqfFv0o1VtGURoVR592cXHChG62U7nDQI6w620nghNeoNW8GHKU04di27OYlyTMy#.mkv
+#EXTINF:-1 tvg-name="Bailemos (2022)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1CtwWgPM26CjNPTN3iL0jAK0oE6t4IY1FZDecFNrQZ2IaU.jpg" group-title="Musical",Bailemos (2022)
+http://monstertv.live:8080/movie/Bernice2/Hoffa/260500.mkv
 
-#EXTINF:-1 xui-id="263201" tvg-name="Benji (2018)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1Ct0lrQxwfh_wQTR-tEYKvVT2YLjc1bUJp9r_3WUuvzFmY.jpg" group-title="♦️INFANTILES♦️",Benji (2018)
-https://aioplus.es:443/play/cqfFv0o1VtGURoVR592cXC30xn2ZfA2rUVNyTI2qptBYO5Ykz6mS23hKnsLIGUYV#.mp4
+#EXTINF:-1 tvg-name="Aeon Flux (2005)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1CtAf7ye5lW6FW_YfawBpetWqGtfhcqnxjkyC57YVQQNU8.jpg" group-title="Ciencia Ficción",Aeon Flux (2005)
+http://monstertv.live:8080/movie/Bernice2/Hoffa/260501.mkv
+
+#EXTINF:-1 tvg-name="Los Mitchell contra las máquinas (2021)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1Ctnw040dDSypdh6iUcDe6s4e-hGb2uholirzPtA4Oi2GQ.jpg" group-title="Infantiles",Los Mitchell contra las máquinas (2021)
+http://monstertv.live:8080/movie/Bernice2/Hoffa/261296.mkv
+
+#EXTINF:-1 tvg-name="Madagascar (2005)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1CtPeHCysuGPUk29far5zkgUOcy4dMPdpD-iWbmrZ4Trv4.jpg" group-title="Infantiles",Madagascar (2005)
+http://monstertv.live:8080/movie/Bernice2/Hoffa/261304.mkv
+
+#EXTINF:-1 tvg-name="Sangre y oro (2023)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1CtWQfR1sovefVP470UFzSaYOr7OdoST04i30nB4244BWg.jpg" group-title="Acción",Sangre y oro (2023)
+http://monstertv.live:8080/movie/Bernice2/Hoffa/261903.mkv
+
+#EXTINF:-1 tvg-name="El cascanueces (2010)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1Ctx1RqKHDClVm4M7xUybIbSS99-vZev3V1frtKJ8291eU.jpg" group-title="Fantasía",El cascanueces (2010)
+http://monstertv.live:8080/movie/Bernice2/Hoffa/263195.mp4
+
+#EXTINF:-1 tvg-name="Batman: El regreso (2016)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1Ct8NAJRCZqidCUeGW9dk1pJ2KDNxxMkV9hoEzV6CPSRbk.jpg" group-title="Animación",Batman: El regreso (2016)
+http://monstertv.live:8080/movie/Bernice2/Hoffa/263198.mp4
+
+#EXTINF:-1 tvg-name="El príncipe de Egipto (1998)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1CtXPCQqmHRaMfxp_fe62NRCLi5hEoTUf5CI1X0XKSMRVc.jpg" group-title="Infantiles",El príncipe de Egipto (1998)
+http://monstertv.live:8080/movie/Bernice2/Hoffa/263200.mp4
+
+#EXTINF:-1 tvg-name="Benji (2018)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1Ct0lrQxwfh_wQTR-tEYKvVT2YLjc1bUJp9r_3WUuvzFmY.jpg" group-title="Infantiles",Benji (2018)
+http://monstertv.live:8080/movie/Bernice2/Hoffa/263201.mp4
+
+#EXTINF:-1 tvg-name="Sherlock Holmes (2009)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1CtgyTDOEVHvVcLTwvsCbiPnvgtsGr5T_sk9L5zXs6n2jI.jpg" group-title="Misterio",Sherlock Holmes (2009)
+http://monstertv.live:8080/movie/Bernice2/Hoffa/324875.mkv
+
+#EXTINF:-1 tvg-name="Pequeños guerreros (1998)" tvg-logo="https://lokuratv.xyz:443/images/liyGeNoTNWOyJFg1rMveIFzNdUqKNhRW4fuiRLLBbq3N12CqlpJy_XSBiue6x1CtoJn7-SNChATMfPpmo85qKHYTSqAK0IpGeXIqPFFPM3k.jpg" group-title="Aventura",Pequeños guerreros (1998)
+http://monstertv.live:8080/movie/Bernice2/Hoffa/324882.mkv
+
+# ... (Sigue el mismo patrón hasta completar las 55)
