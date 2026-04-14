@@ -1382,12 +1382,6 @@ http://monstertv.live:8080/movie/Bernice2/Hoffa/964745.mkv
 #EXTINF:-1 tvg-name="The Last of the Sea Women (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jhTnfQh9lWmRf0eAX1GNXYuIs5.jpg" group-title="Documentary",The Last of the Sea Women (2024)
 http://monstertv.live:8080/movie/Bernice2/Hoffa/964278.mkv
 
-#EXTINF:-1 group-title="PELICULAS",Society of the Snow (2023)
-http://aioplus.es:80/movie/Grower24/Grower24/11500.mp4
-
-#EXTINF:-1 group-title="PELICULAS",Sound of Freedom (2023)
-http://aioplus.es:80/movie/Grower24/866412/11501.mp4
-
 ####################################
 ########## ⚽ ESPN LATINO ##########
 ####################################
@@ -1516,3 +1510,7 @@ https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBDNBRPLazsEPapcbqkpWlu19QR8QHvN-
 https://aioplus.es:443/play/otjkI8rSgp4nhLp13k2oBLg3ISlHZwh7Edh1YnlYaSD_5VSRS_4mxdB8VrJUhLsD#.mp4
 #EXTINF:-1 tvg-name="Dune (2021)" group-title="Science Fiction",Dune (2021)
 http://monstertv.live:8080/movie/Bernice2/Hoffa/692608.mkv  
+#EXTINF:-1 tvg-id="" tvg-name="13th (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iD6mU4S99K8l7I9VclYpSOf9uH.jpg" group-title="Documentary",13th (2016)
+http://monstertv.live:8080/movie/Bernice2/Hoffa/690190.mp4
+#EXTINF:-1 tvg-id="" tvg-name="14 Peaks: Nothing Is Impossible (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/366I6V6B8u2LhYInS6X2m48W07S.jpg" group-title="Documentary",14 Peaks: Nothing Is Impossible (2021)
+http://monstertv.live:8080/movie/Bernice2/Hoffa/690191.mkv
