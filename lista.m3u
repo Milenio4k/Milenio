@@ -1387,3 +1387,65 @@ http://aioplus.es:80/movie/Grower24/Grower24/11500.mp4
 
 #EXTINF:-1 group-title="PELICULAS",Sound of Freedom (2023)
 http://aioplus.es:80/movie/Grower24/866412/11501.mp4
+
+####################################
+########## ⚽ ESPN LATINO ##########
+####################################
+
+#EXTINF:-1 group-title="🌎 ESPN LATINO",ESPN Deportes
+http://monstertv.live:8080/Bernice2/Hoffa/999551
+
+####################################
+########## 🇦🇷 ARGENTINA ##########
+####################################
+
+#EXTINF:-1 group-title="🇦🇷 ESPN ARG",ESPN Argentina HD
+http://monstertv.live:8080/Bernice2/Hoffa/1043654
+
+#EXTINF:-1 group-title="🇦🇷 ESPN ARG",ESPN 2 Argentina HD
+http://monstertv.live:8080/Bernice2/Hoffa/1043651
+
+#EXTINF:-1 group-title="🇦🇷 ESPN ARG",ESPN 3 Argentina HD
+http://monstertv.live:8080/Bernice2/Hoffa/1043652
+
+#EXTINF:-1 group-title="🇦🇷 ESPN ARG",ESPN Extra Argentina HD
+http://monstertv.live:8080/Bernice2/Hoffa/1043653
+
+#EXTINF:-1 group-title="🇦🇷 ESPN ARG",ESPN Premium Argentina HD
+http://monstertv.live:8080/Bernice2/Hoffa/1043656
+
+####################################
+########## 🇲🇽 MÉXICO ##########
+####################################
+
+#EXTINF:-1 group-title="🇲🇽 ESPN MX",ESPN México HD
+http://monstertv.live:8080/Bernice2/Hoffa/1043670
+
+#EXTINF:-1 group-title="🇲🇽 ESPN MX",ESPN 2 México HD
+http://monstertv.live:8080/Bernice2/Hoffa/1043671
+
+#EXTINF:-1 group-title="🇲🇽 ESPN MX",ESPN 3 México HD
+http://monstertv.live:8080/Bernice2/Hoffa/1043672
+
+####################################
+########## 🇨🇴 COLOMBIA ##########
+####################################
+
+#EXTINF:-1 group-title="🇨🇴 ESPN CO",ESPN Colombia HD
+http://monstertv.live:8080/Bernice2/Hoffa/1044494
+
+#EXTINF:-1 group-title="🇨🇴 ESPN CO",ESPN 2 Colombia HD
+http://monstertv.live:8080/Bernice2/Hoffa/1044495
+
+#EXTINF:-1 group-title="🇨🇴 ESPN CO",ESPN 3 Colombia HD
+http://monstertv.live:8080/Bernice2/Hoffa/1044496
+
+####################################
+########## 🌎 EXTRA LATAM ##########
+####################################
+
+#EXTINF:-1 group-title="🌎 ESPN LATAM",ESPN Sur HD
+http://monstertv.live:8080/Bernice2/Hoffa/1043660
+
+#EXTINF:-1 group-title="🌎 ESPN LATAM",ESPN Norte HD
+http://monstertv.live:8080/Bernice2/Hoffa/1043661
